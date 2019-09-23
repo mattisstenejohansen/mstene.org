@@ -1,0 +1,26 @@
+body {
+	 background-color: black;
+}
+
+h1 {
+  color: #05ffa1;
+  font-family: 'Source Code Pro', monospace;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+
+#summary {
+  color: #ff71ce;
+  padding-left: 50px;
+  padding-top: 30px;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 20px;
+}
+
+#crypto-summary {
+  color: #01cdfe;
+  padding-left: 50px;
+  padding-top: 30px;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 20px;
+}
